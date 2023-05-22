@@ -1,6 +1,6 @@
 # BE-Project
 Github repository for the BE Project
-Dummy files created for the SCM Experiment in Software Engineering Lab
+
 <br>
 Team Members:<br>
 Naitik Rathod - 60004180054 - https://github.com/NaitikR <br>
